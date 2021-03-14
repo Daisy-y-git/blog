@@ -3,14 +3,14 @@ title:  "大凉山少女们的棒球梦"
 subtitle: "棒球领她们走出大山"
 author: "Daisy-y"
 avatar: "assets/images/authors/angel.jpg"
-image: "assets/images/凉山3.png"
+image: "assets/凉山3.png"
 ---
 
 很少有人知道，除了棒球少年，这个基地还有一群**来自大凉山的彝族棒球少女**。她们正为改变自己的命运而努力。
 
 从四川大凉山来到遥远陌生的北京，自下山那天起，等待她们的一切都是崭新的。
 
-![凉山]({{ site.baseurl }}/assets/images/凉山.jpeg)
+![凉山]({{ site.baseurl }}/assets/凉山.jpeg)
 
 2019年12月，10个女孩、8个男孩从四川凉山彝族自治州来到基地。
 
@@ -22,4 +22,4 @@ image: "assets/images/凉山3.png"
 
 **未来5至10年，让强棒天使棒球队女队取得世界冠军。**
 
-![凉山2]({{ site.baseurl }}/assets/images/凉山2.jpeg)
+![凉山2]({{ site.baseurl }}/assets/凉山2.jpeg)
