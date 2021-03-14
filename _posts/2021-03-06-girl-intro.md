@@ -2,6 +2,7 @@
 title:  "元气机灵的棒球少女"
 subtitle: "棒球场外的沙马依乌"
 author: "Daisy-y"
+avatar: "assets/images/authors/angel.jpg"
 image: "assets/images/种菜1.jpg"
 ---
 
