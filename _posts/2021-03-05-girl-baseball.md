@@ -3,7 +3,7 @@ title:  "棒球与女孩沙马依乌"
 subtitle: "训练场上的乐观笑容"
 author: "Daisy-y"
 avatar: "assets/images/authors/angel.jpg"
-image: "assets/images/棒球1.JPG"
+image: "assets/images/棒球1.jpg"
 ---
 
 2020年9月加入强棒基地的沙马依乌，已经和棒球一起度过了半年多的时光。
@@ -36,7 +36,7 @@ image: "assets/images/棒球1.JPG"
 
 她挥舞着球棒，一边说道。
 
-![静态1]({{ site.baseurl }}/assets/images/静态1.jpg)
+![静态1]({{ site.baseurl }}/assets/images/静态1.JPG)
 
 > “如果不打棒球，你会做什么呢？”
 
