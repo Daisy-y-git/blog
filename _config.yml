@@ -2,9 +2,9 @@
 baseurl: "/blog"
 
 # 网站的主标题
-title: "Girls"
+title: "棒球与少女"
 # 网站副标题
-subTitle: "桥梁"
+subTitle: "强棒天使项目背后的故事"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
