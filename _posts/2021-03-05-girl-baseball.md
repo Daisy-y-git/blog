@@ -2,7 +2,8 @@
 title:  "棒球与女孩沙马依乌"
 subtitle: "训练场上的乐观笑容"
 author: "Daisy-y"
-image: "assets/images/静态1.jpg"
+avatar: "assets/images/authors/angel.jpg"
+image: "assets/images/静态1.JPG"
 ---
 
 2020年9月加入强棒基地的沙马依乌，已经和棒球一起度过了半年多的时光。
